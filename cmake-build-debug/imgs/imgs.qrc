@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/imgs">
+    <file>background.png</file>
+    <file>groupB_btn.png</file>
+    <file>groupA_btn.png</file>
+  </qresource>
+</RCC>
